@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://grupo-outlet.github.io/blogOutlet/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://blog.outletseguros.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://grupo-outlet.github.io/blogOutlet/</loc>
+<loc>https://blog.outletseguros.com/</loc>
 </url>
 <url>
-<loc>https://grupo-outlet.github.io/blogOutlet/mi-primer-block.html</loc>
-<lastmod>2025-10-21T12:45:59-06:00</lastmod>
+<loc>https://blog.outletseguros.com/httpsblogoutletseguroscomlas-mejores-companias-de-seguros-2/consejos-para-prepararse-en-caso-de-una-emergencia-medica/</loc>
+</url>
+<url>
+<loc>https://blog.outletseguros.com/httpsblogoutletseguroscomlas-mejores-companias-de-seguros-2/las-mejores-companias-de-seguros-2/</loc>
+</url>
+<url>
+<loc>https://blog.outletseguros.com/httpsblogoutletseguroscomlas-mejores-companias-de-seguros-2/los-carros-mas-famosos-del-mundo/</loc>
+</url>
+<url>
+<loc>https://blog.outletseguros.com/httpsblogoutletseguroscomlas-mejores-companias-de-seguros-2/trucos-de-hollownight/</loc>
+</url>
+<url>
+<loc>https://blog.outletseguros.com/consejos-para-prepararse-en-caso-de-una-emergencia-medica-2/</loc>
+<lastmod>2025-10-21T11:29:59-06:00</lastmod>
 <image:image>
-<image:loc>https://grupo-outlet.github.io/blogOutlet/media/posts/1/veinte-pesos.jpg</image:loc>
-<image:title><![CDATA[grafica]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://grupo-outlet.github.io/blogOutlet/media/posts/1/nestjs-2.png</image:loc>
+<image:loc>https://blog.outletseguros.com/media/posts/7/emergency-kit-supplies.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
